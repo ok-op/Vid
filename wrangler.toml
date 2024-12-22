@@ -1,8 +1,8 @@
 name = "telegram-bot"
 type = "javascript"
-account_id = "<YOUR_ACCOUNT_ID>"
+account_id = "61295149b323855ef32524950be5c587"
 workers_dev = true
 compatibility_date = "2024-12-22"
 
 [vars]
-BOT_TOKEN = "7841284508:AAE91Awolci1qRo-8EFz5GyceHuTQWozj4"
+BOT_TOKEN = "7841284508:AAE91Awolci1qRo-8EFz5GyceHuTQWozj40"
